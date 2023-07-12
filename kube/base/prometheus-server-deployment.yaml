@@ -23,10 +23,9 @@ spec:
       labels:
         io.kompose.service: prometheus-server
     spec:
-      imagePullSecrets:
-        - name: gcr-json-key
+      
       containers:
-        - image: prometheus-server
+        - image: europe-west1-docker.pkg.dev/mazza-geoffrey/front-regis/bitnami/prometheus-operator:latest
           name: prometheus-server
           ports:
             - containerPort: 9090
