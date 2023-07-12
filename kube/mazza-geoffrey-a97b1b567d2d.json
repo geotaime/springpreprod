@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mazza-geoffrey",
+  "private_key_id": "a97b1b567d2d6388786c39f0980edd72752f5c68",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDR9z5aitPJ9hgl\nt8hTU5o5Ui1xESxc3vfEhNuyYEHCJnOQHnjh3UfjnzwJXO5e2VMa9xht9LHafEOM\nJAalZByUptrcjt6SbTXliDa7Xid0qM8e81YOAJEb07E3MDc9ViwAbgTM3C5w2aYN\nnZ1ZwnY36vJT42srgp2MULYMj7dpAhFTLayr0Pn76/TTfAvbT/Y9Sms6vbrYFhSJ\nqcYNW2M1GewWrixw2qQfBiQuPiO8AFwm5/FgqY4PwM2Kimbk+CRxpHeX2lHstB1E\nDVHN5k0nqZIYlLU48QOOxO1kQHBjI9y0KM1XerEjyYnD++d15vzoh9dBVaUBqcEo\nOC5ImOWPAgMBAAECggEACJq0ttoo8OM7paQMo4JDVRm/EIZvI5BwH+D0Svahf5m6\nyotKOptNP0rb6O+W9Dulb1f0peyHYd4N3mZ56OIy4dJAdnLyBcWtIZ0at0RQFvp1\nn+OTZEPHC6QFh3SVyGKPUj27mIkI1ImHh6lnAE8SMCblhfx0KxZuazce+aefs+5b\nSKjbHvmAFD/zBVWO1X18FP+lDIi9bD1eJXrHbreUOFx6YzHuyqIkwHW1xAxre2Kv\nbaYt091FJ206SpPAtKGw6+WSgY4nSduLHss1bsDG9oN4D5YEGwbqeTN66FNHYJDu\nQg/qHdk2RrU58iw6YxepUaTTpoPe+hIkSLYJ6bOGWQKBgQD7+JC2uHquyjj9PDyi\n8qUfb55M3rRZ3TYAqmYJ13G+yteVAU6kPAR5IsSOVS5pwdMUciii1NF40vI88dnp\nx8unnY39lwzTfW2CxV5Kt/E9VN7f+2On4s9R8yhzgXpEQgw8W2i8xRTFiBrwU8ub\nXsc4/UlaMbZnmyQr6bV4MVpnxwKBgQDVUrtGs/apImtMquBMfF7U4rZRUk3DIsYY\nq4aZB3ObZmbEj0dq1BRlovHYgir+bDu8Cv0q5qhdXzUGwGYsL19ab3pSI2+6AkEJ\nvHV52K04weaMVgD71jSUhQmp8QUNLY3iNHxwieaPf1LxYX4kaBKIbEbNDd1/baae\n98c1cjhj+QKBgByZz1teP1a9z5A3GS7p2gJiehaBpPkaWfnjXae6U8fzYFsihdmw\nklVps+PwGU+Z16rXdnNdMtXDJAn07eZSbnR9NtPVJHiRITAZ1SUoEfMDQjUsZNh2\nr0+/CRVrWgSLdrYXLiFXQY9WbrBe4pqlPHnkjkH1qJ3EB2wQoC+fcoKbAoGBALHx\nzR5xSDRV7cOKVof2xvQ2GXdEfHFmNHCnxCMqwBjFFryn+B74wfr2LV85VbvddQaq\n8/wxZAhfPtBe9dutuJCrpRGXVb+H2dDRT/1P7U8HD9XIeBGa4UlyoFkOH/SaJ1ym\nA5essJLK1tlbReoAllUOXRD3m+iMAw1gCuBeYwOhAoGBAMY5dTNm5tuSuBfPoHtJ\n/enJLOR1xQ5U6yNVvZ5uP4+8xX5rbw7Kd9053CsPkmOFWNW0qsHcAuhznUoLxnzx\nNW+8ocWz/LV//Z0wcX0h0EfuRIS5XwdRbR4rVcXTT7AmEXrjyfCw3yihzbNp6Ih1\n6JIm2/ruNuFvkjo2Pov7Cbi/\n-----END PRIVATE KEY-----\n",
+  "client_email": "saforpull@mazza-geoffrey.iam.gserviceaccount.com",
+  "client_id": "115604987920732316942",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/saforpull%40mazza-geoffrey.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

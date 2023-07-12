@@ -1,0 +1,25 @@
+resources:
+- admin-server-deployment.yaml
+- admin-server-service.yaml
+- api-gateway-deployment.yaml
+- api-gateway-service.yaml
+- config-server-deployment.yaml
+- config-server-service.yaml
+- customers-service-deployment.yaml
+- customers-service-service.yaml
+- database-claim0-persistentvolumeclaim.yaml
+- database-deployment.yaml
+- database-service.yaml
+- discovery-server-deployment.yaml
+- discovery-server-service.yaml
+- grafana-server-deployment.yaml
+- grafana-server-service.yaml
+- mysql-secret.yaml
+- prometheus-server-deployment.yaml
+- prometheus-server-service.yaml
+- tracing-server-deployment.yaml
+- tracing-server-service.yaml
+- vets-service-deployment.yaml
+- vets-service-service.yaml
+- visits-service-deployment.yaml
+- visits-service-service.yaml

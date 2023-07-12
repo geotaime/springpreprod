@@ -1,0 +1,26 @@
+resources:
+- namespace.yaml
+- ../base
+namespace: dev
+images:
+- name: springcommunity/spring-petclinic-admin-server
+  newName: europe-west1-docker.pkg.dev/certain-purpose-392407/petclinic-microservices/springcommunity/spring-petclinic-admin-server
+  newTag: latest
+- name: springcommunity/spring-petclinic-api-gateway
+  newName: europe-west1-docker.pkg.dev/certain-purpose-392407/petclinic-microservices/springcommunity/spring-petclinic-api-gateway
+  newTag: latest
+- name: springcommunity/spring-petclinic-config-server
+  newName: europe-west1-docker.pkg.dev/certain-purpose-392407/petclinic-microservices/springcommunity/spring-petclinic-config-server
+  newTag: latest
+- name: springcommunity/spring-petclinic-customers-service
+  newName: europe-west1-docker.pkg.dev/certain-purpose-392407/petclinic-microservices/springcommunity/spring-petclinic-customers-service
+  newTag: latest
+- name: springcommunity/spring-petclinic-discovery-server
+  newName: europe-west1-docker.pkg.dev/certain-purpose-392407/petclinic-microservices/springcommunity/spring-petclinic-discovery-server
+  newTag: latest
+- name: springcommunity/spring-petclinic-vets-service
+  newName: europe-west1-docker.pkg.dev/certain-purpose-392407/petclinic-microservices/springcommunity/spring-petclinic-vets-service
+  newTag: latest
+- name: springcommunity/spring-petclinic-visits-service	
+  newName: europe-west1-docker.pkg.dev/certain-purpose-392407/petclinic-microservices/springcommunity/spring-petclinic-visits-service
+  newTag: latest

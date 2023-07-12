@@ -1,0 +1,26 @@
+resources:
+- namespace.yaml
+- ../base
+namespace: preprod
+images:
+- name: springcommunity/spring-petclinic-admin-server
+  newName: europe-west1-docker.pkg.dev/certain-purpose-392407/petclinic-microservices/springcommunity/spring-petclinic-admin-server
+  newTag: preprod
+- name: springcommunity/spring-petclinic-api-gateway
+  newName: europe-west1-docker.pkg.dev/certain-purpose-392407/petclinic-microservices/springcommunity/spring-petclinic-api-gateway
+  newTag: preprod
+- name: springcommunity/spring-petclinic-config-server
+  newName: europe-west1-docker.pkg.dev/certain-purpose-392407/petclinic-microservices/springcommunity/spring-petclinic-config-server
+  newTag: preprod
+- name: springcommunity/spring-petclinic-customers-service
+  newName: europe-west1-docker.pkg.dev/certain-purpose-392407/petclinic-microservices/springcommunity/spring-petclinic-customers-service
+  newTag: preprod
+- name: springcommunity/spring-petclinic-discovery-server
+  newName: europe-west1-docker.pkg.dev/certain-purpose-392407/petclinic-microservices/springcommunity/spring-petclinic-discovery-server
+  newTag: preprod
+- name: springcommunity/spring-petclinic-vets-service
+  newName: europe-west1-docker.pkg.dev/certain-purpose-392407/petclinic-microservices/springcommunity/spring-petclinic-vets-service
+  newTag: preprod
+- name: springcommunity/spring-petclinic-visits-service	
+  newName: europe-west1-docker.pkg.dev/certain-purpose-392407/petclinic-microservices/springcommunity/spring-petclinic-visits-service
+  newTag: preprod
